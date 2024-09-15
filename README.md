@@ -10,9 +10,13 @@ This Power BI dashboard presents a comprehensive overview of Blinkit's sales per
 Key Metrics:
 
 Total Sales: $1.20M
+
 Average Sales: $141 per transaction
+
 Number of Items Sold: 8,523
+
 Average Customer Rating: 3.9
+
 Item Type Analysis: A breakdown of sales by product categories such as Fruits & Vegetables, Snacks, Household items, and more, showing contributions to the overall sales.
 
 Outlet Performance:
